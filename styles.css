@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  background-image: linear-gradient(rgb(212, 231, 124), rgb(118, 194, 108));
+  width: 100vw;
+  height: 100vh;
+}
+h1 {
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  position: absolute;
+  font-weight: normal;
+  top: 50%;
+  bottom: 25%;
+  right: 25%;
+  left: 25%;
+  font-size: 50px;
+}
